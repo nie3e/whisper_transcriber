@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cu121
-openai-whisper
-gradio
-pytest
-pytubefix
+openai-whisper==20240930
+gradio==5.9.1
+pytest==8.3.4
+pytubefix==8.8.3
